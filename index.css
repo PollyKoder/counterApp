@@ -15,4 +15,5 @@ h1 {
 button {
     max-width: 100px;
     min-width: 50px;
+    border-radius: 3px dotted rgb(28, 63, 28);
 }

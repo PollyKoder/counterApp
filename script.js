@@ -8,9 +8,29 @@ let count = 0;
 
 // funksjon;
 function increment() {
-     count + 1;
+     count = count + 1;
      console.log(count);
 }
 
 increment();
 increment();
+increment();
+increment();
+increment();
+increment();
+increment();
+increment();
+
+function decrement() {
+    count = count - 1;
+    console.log(count);
+}
+
+decrement();
+decrement();
+decrement();
+decrement();
+decrement();
+decrement();
+decrement();
+decrement();
