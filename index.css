@@ -14,6 +14,7 @@ h1 {
 
 button {
     max-width: 100px;
-    min-width: 50px;
-    border-radius: 3px dotted rgb(28, 63, 28);
+    min-width: 70px;
+    border:  4px groove #1c3f1c;
+    border-radius: 5px;
 }
