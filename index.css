@@ -1,35 +1,61 @@
 * {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+body {
+    margin:0;
+    background-image: linear-gradient(to right,#ffff30,#2bff2b);
+}
 
 h1 {
     text-align: center;
+    margin-bottom: 50px;
 }
 
-.place {
+
+
+.buttons {
+    gap:3em;
+    padding:1em;
+    margin-top: 80px;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 5px;
 }
 
-.buttons {
-    gap:2em;
-    padding:1em;
-    margin-top: 80px;
-}
-
 .counterValue {
-    max-width:60px;
+    width:45px;
     border: 2px solid #222222;
+    background-color: #86dbbf;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:-80px;
+    border-radius: 5px;
 }
 
-button {
+.buttonMath {
     max-width: 180px;
     min-width: 120px;
     height: 38px;
     border:  3px groove #1c3f1c;
+    border-radius: 5px;
     font-size: x-large;
+    background-color: #4c4cd1;
 }
 
-.bReset {}
+.bReset {
+    width:45px;
+    border: 2px solid #222222;
+    background-color: #86dbbf;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
