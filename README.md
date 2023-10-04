@@ -20,4 +20,6 @@ Innlevering:
 
 
 #E Egne notater:
-- 
+- Kom på en ide om at counterValue+buttons kan se ut som et plus tegn og med hjelp av farger i css kan jeg få det til å se ut som om det er et pluss og minus tegn kombinert.
+- Ser allerede at jeg må "renske" css koden og gjøre den tørrere, måte bare se at alt fungerte som det skal først.
+- JS koden ser riktig ut, fungerer i dev tool -> console, men virker ikke  i praksis i nettleser. -> Finn løsning eller prøv en annen metode.
