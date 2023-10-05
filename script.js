@@ -10,18 +10,16 @@ let count = 0;
 
 // funksjon;
 function increment() {
-     count = count + 1;
-     console.log(count);
+  count = count + 1;
+  console.log(count);
 }
-
-
 
 function decrement() {
-    count = count - 1;
-    console.log(count);
+  count = count - 1;
+  console.log(count);
 }
 
-//Velger å bruke addEventLister, da den virker mer intuitiv for meg 
+//Velger å bruke addEventLister, da den virker mer intuitiv for meg
 // - og jeg liker at jeg da kan legge ved flere funksjoner senere//
 plussButton.addEventListener("click", increment);
 minusButton.addEventListener("click", decrement);
