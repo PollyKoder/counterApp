@@ -16,7 +16,7 @@ Innlevering:
 - Github repository lenke
 - Netlity nettside lenke
 
-# Due Oct 6
+# Due: Oct 6
 
 
 #E Egne notater:
@@ -25,3 +25,4 @@ Innlevering:
 - JS koden ser riktig ut, fungerer i dev tool -> console, men virker ikke  i praksis i nettleser. -> Finn løsning eller prøv en annen metode.
 - Fant med hjelp ut av problemet, og kunne fortsette med sette opp reset-button koden i js, noe som var enklere enn jeg trodde.
 - Nå blir det å ferdigstille css, fo så å gjøre selve koden tørrere. 
+- cFunction = collective-function, som navnet tilsier tenker jeg å samle alle gjentagende css elementer her i håp om å gjøre koden tørrere. Da jeg prøvde dette tidligere i prosjektet knakk koden, så håper det går fint nå.
