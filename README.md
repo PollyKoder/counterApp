@@ -4,7 +4,7 @@ Vi kommer til å ta i bruk:
 - Datatyper
 - Funksjoner
 - DOM Manipulasjon
-- For å lage denne applikasjonen.
+For å lage denne applikasjonen.
 
 # Krav:
 - Fullverdig html dokument (tenk semantisk, tenk universal utforming)
