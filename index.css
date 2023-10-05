@@ -22,6 +22,7 @@ h1 {
 
 .counterValue {
     margin-bottom:-80px;
+    text-align: center;
 }
 
 
@@ -60,4 +61,5 @@ button:hover {
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }

@@ -27,3 +27,6 @@ Innlevering:
 - Nå blir det å ferdigstille css, fo så å gjøre selve koden tørrere. 
 - cStyle = collective-style, som navnet tilsier tenker jeg å samle alle gjentagende css elementer her i håp om å gjøre koden tørrere. Da jeg prøvde dette tidligere i prosjektet knakk koden, så håper det går fint nå.
 - cFLex = collective-flex, samlet flex css, da den gjentok seg i flere classer. Later til at koden fortsatt virker greit. 
+- testet via Netlify, js fungerer greit, men css -  buttons -  knakk sammen. 
+- Så da blir det å sette flex på buttons igjen.
+- Kom frem til at problemet var at jeg glemte å legge ved cFlex classen til div-buttons, så da trengte jeg ikke å ha ekstra flex elementer.
