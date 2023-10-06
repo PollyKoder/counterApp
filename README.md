@@ -33,3 +33,15 @@ Innlevering:
 
 - Fixet litt på responsivt design, var relativt greit slik det var i utgangspunktet, men er fortsatt rom for forbedring.
 - La til fargepallet med variabler.
+
+-Fargepalett:
+    /*Background colors*/
+    --yellow: #ffff30;
+    --green: #2bff2b;
+    --dGreen: #007300;
+    /*Borders and buttons*/
+    --black: #222222;
+    --bBlue: #86dbbf;
+    --blue: #4c4cd1;
+    --dBlue: #0a0a44;
+    --grey: #a19f9f;
